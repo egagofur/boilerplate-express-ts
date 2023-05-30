@@ -1,5 +1,5 @@
 # Boilerplate-Express-Ts
-sudah include eslint, typescript, prettier, nodemon
+include eslint, typescript, prettier, nodemon
 
 ## Installation
 
